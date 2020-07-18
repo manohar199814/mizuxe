@@ -25,6 +25,8 @@ body {
 #about .about-header {
   width: 50%;
   margin: auto; }
+#about #collapseone, #about #collapsetwo, #about #collapsethree {
+  height: auto; }
 
 #authors .card:hover {
   background-color: #3292a6; }
